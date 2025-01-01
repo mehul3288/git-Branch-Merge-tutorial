@@ -1,1 +1,1 @@
-console.log("Commit 3");
+console.log("Conflict 2");
